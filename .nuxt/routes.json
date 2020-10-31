@@ -1,0 +1,16 @@
+[
+  {
+    "name": "table",
+    "path": "/table",
+    "component": "E:\\\\313\\\\b3\\\\pages\\\\table.vue",
+    "chunkName": "pages/table",
+    "_name": "_4a3608dd"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\313\\\\b3\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_deca583e"
+  }
+]
